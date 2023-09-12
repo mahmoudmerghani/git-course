@@ -1,4 +1,6 @@
+body {
+    box-sizing: border-box;
+}
 .box {
     display: flex;
-    gap: 40px;
 }
